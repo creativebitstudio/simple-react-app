@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import logo from './public/react-logo.png';
 
-class global extends Component{
+class app extends Component{
     render(){
         return(
             <div>
@@ -16,4 +16,4 @@ class global extends Component{
     }
 } 
 
-export default global;
+export default app;
