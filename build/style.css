@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    background: url("./react-logo.png");
+    height: 40px;
+}
+
+hr{
+    width: 30px;
+    background-color: #d7d700;
+
+    height: 1px;
+}
